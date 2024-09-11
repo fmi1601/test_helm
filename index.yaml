@@ -1,9 +1,20 @@
 apiVersion: v1
 entries:
+  server:
+  - apiVersion: v2
+    appVersion: 244.8.1211
+    created: "2024-09-11T15:35:34.92146+03:00"
+    description: Generic Chart
+    digest: 3144ed6cbe578293209db9024c4b3ea73721bbda4d23d16cd50cee90aa84181f
+    name: server
+    type: application
+    urls:
+    - https://fmi1601.github.io/test_helm/server.tgz
+    version: 244.8.1211
   servicenowalertintegration:
   - apiVersion: v2
     appVersion: 24.92.654
-    created: "2024-09-11T13:45:01.253912+03:00"
+    created: "2024-09-11T15:35:34.921796+03:00"
     description: Generic Chart
     digest: 3b095b7f13583a7710a3679cbf65940eb35450f7156aa9a25bb9aab253e7cecd
     name: servicenowalertintegration
@@ -11,4 +22,4 @@ entries:
     urls:
     - https://fmi1601.github.io/test_helm/servicenowalertintegration.tgz
     version: 24.92.654
-generated: "2024-09-11T13:45:01.250637+03:00"
+generated: "2024-09-11T15:35:34.920264+03:00"
