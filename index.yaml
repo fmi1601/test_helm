@@ -1,3 +1,14 @@
 apiVersion: v1
-entries: {}
-generated: "2024-09-11T12:26:58.845483+03:00"
+entries:
+  servicenowalertintegration:
+  - apiVersion: v2
+    appVersion: 24.92.654
+    created: "2024-09-11T13:45:01.253912+03:00"
+    description: Generic Chart
+    digest: 3b095b7f13583a7710a3679cbf65940eb35450f7156aa9a25bb9aab253e7cecd
+    name: servicenowalertintegration
+    type: application
+    urls:
+    - https://fmi1601.github.io/test_helm/servicenowalertintegration.tgz
+    version: 24.92.654
+generated: "2024-09-11T13:45:01.250637+03:00"
