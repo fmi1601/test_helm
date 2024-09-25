@@ -1,45 +1,14 @@
 apiVersion: v1
 entries:
-  server:
-  - apiVersion: v2
-    appVersion: 244.8.1211
-    created: "2024-09-24T08:55:31.75941934Z"
-    description: Generic Chart
-    digest: 3144ed6cbe578293209db9024c4b3ea73721bbda4d23d16cd50cee90aa84181f
-    name: server
-    type: application
-    urls:
-    - https://fmi1601.github.io/test_helm/identity.tgz
-    version: 244.8.1211
-  - apiVersion: v2
-    appVersion: 244.8.1211
-    created: "2024-09-24T08:55:31.759755973Z"
-    description: Generic Chart
-    digest: 3144ed6cbe578293209db9024c4b3ea73721bbda4d23d16cd50cee90aa84181f
-    name: server
-    type: application
-    urls:
-    - https://fmi1601.github.io/test_helm/identityapi.tgz
-    version: 244.8.1211
-  - apiVersion: v2
-    appVersion: 244.8.1211
-    created: "2024-09-24T08:55:31.760096543Z"
-    description: Generic Chart
-    digest: 3144ed6cbe578293209db9024c4b3ea73721bbda4d23d16cd50cee90aa84181f
-    name: server
-    type: application
-    urls:
-    - https://fmi1601.github.io/test_helm/server.tgz
-    version: 244.8.1211
   servicenowalertintegration:
   - apiVersion: v2
     appVersion: 24.94.733
-    created: "2024-09-24T08:55:31.760497585Z"
+    created: "2024-09-25T08:54:46.380217732Z"
     description: Generic Chart
-    digest: be1df3da45365f380e02f71f650abeff26398893c562d1979fa0baeb43a75997
+    digest: e82d9b5230a8d8c543ac16c2fb441cf1e047bd3eb06b3b881d66d53f64bbe8c1
     name: servicenowalertintegration
     type: application
     urls:
     - https://fmi1601.github.io/test_helm/servicenowalertintegration.tgz
     version: 24.94.733
-generated: "2024-09-24T08:55:31.758920101Z"
+generated: "2024-09-25T08:54:46.379641257Z"
