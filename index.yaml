@@ -3,12 +3,12 @@ entries:
   servicenowalertintegration:
   - apiVersion: v2
     appVersion: 24.94.733
-    created: "2024-10-04T11:17:49.333772969+03:00"
+    created: "2024-10-04T11:27:24.411671271+03:00"
     description: Generic Chart
-    digest: 5bb6ff28512456e43be8bae43edea495721a338a354a8f7ce648c8643607549e
+    digest: eed61cea1835d41d8c8c743dc3756f81326a015b9382e0ec72243077aebf6078
     name: servicenowalertintegration
     type: application
     urls:
     - https://fmi1601.github.io/test_helm/servicenowalertintegration.tgz
     version: 24.94.733
-generated: "2024-10-04T11:17:49.333002065+03:00"
+generated: "2024-10-04T11:27:24.410578942+03:00"
