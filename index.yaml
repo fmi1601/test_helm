@@ -3,7 +3,7 @@ entries:
   openlm-config-generic:
   - apiVersion: v2
     appVersion: 24.109.1650
-    created: "2024-10-09T16:51:22.637041112+03:00"
+    created: "2024-10-17T10:49:47.295134489+03:00"
     description: Generic Chart
     digest: dc3c42fdfa791d2ecc4bcaa77c1b5ba28e43c58a13cf38b9ccdfc45e343d6ce4
     name: openlm-config-generic
@@ -11,10 +11,21 @@ entries:
     urls:
     - https://fmi1601.github.io/test_helm/openlm_config_generic.tgz
     version: 24.109.1650
+  openlm-telemetry-config-generic:
+  - apiVersion: v2
+    appVersion: 24.1017.1049
+    created: "2024-10-17T10:49:47.29552172+03:00"
+    description: Generic Chart
+    digest: 5977145f2bb35c69f95d2d9d06bd627eb8475e279a38ce4cd312023e4bb66ffc
+    name: openlm-telemetry-config-generic
+    type: application
+    urls:
+    - https://fmi1601.github.io/test_helm/openlm_telemetry_config_generic.tgz
+    version: 24.1017.1049
   servicenowalertintegration:
   - apiVersion: v2
     appVersion: 24.94.733
-    created: "2024-10-09T16:51:22.638710722+03:00"
+    created: "2024-10-17T10:49:47.295870429+03:00"
     description: Generic Chart
     digest: ab51b9b7f7b1b64c78a3efe1d2503974e646e480c1bf0da94004986514b3e40d
     name: servicenowalertintegration
@@ -22,4 +33,4 @@ entries:
     urls:
     - https://fmi1601.github.io/test_helm/servicenowalertintegration.tgz
     version: 24.94.733
-generated: "2024-10-09T16:51:22.633491894+03:00"
+generated: "2024-10-17T10:49:47.29415142+03:00"
